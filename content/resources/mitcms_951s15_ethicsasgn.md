@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae5f51a0-1d67-6d31-a946-2685ba5510a3
 resourcetype: Document
 title: CMS.951s15 Ethics Assignment
 uid: df282927-c7d6-7b7f-39f5-2e68bf228be4

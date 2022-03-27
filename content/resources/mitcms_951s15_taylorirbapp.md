@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c049432a-2e4c-82a4-33b7-a959c807f75b
 resourcetype: Document
 title: CMS.951s15 T. L. Taylor Institutional Review Board Application Dec 2012
 uid: 3cc9d639-7ad8-e0ef-1204-22384eee93c0

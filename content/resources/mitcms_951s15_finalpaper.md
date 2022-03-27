@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae5f51a0-1d67-6d31-a946-2685ba5510a3
 resourcetype: Document
 title: CMS.951s15 Final Paper Guidelines
 uid: 81dca83c-3110-39aa-b14d-279f974c0002
