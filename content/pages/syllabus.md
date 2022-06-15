@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, grading, and the schedule of course topics, activities, and
+  assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +22,7 @@ This course focuses on a number of qualitative social science methods that can b
 Prerequisites
 -------------
 
-[_CMS.950 Workshop I_](resolveuid/2d380a712ebb261c8fde43201034a968)
+[_CMS.950 Workshop I_](/courses/cms-950-workshop-i-fall-2005)
 
 Grading
 -------
