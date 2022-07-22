@@ -5,6 +5,7 @@ file: /courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: CMS.951s15 Final Paper Guidelines
 uid: 81dca83c-3110-39aa-b14d-279f974c0002
 ---
 This resource contains information regarding final paper.
-

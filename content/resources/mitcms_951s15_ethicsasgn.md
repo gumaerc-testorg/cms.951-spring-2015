@@ -5,6 +5,7 @@ file: /courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: CMS.951s15 Ethics Assignment
 uid: df282927-c7d6-7b7f-39f5-2e68bf228be4
 ---
 This resource contains information regarding ethics assignment.
-

@@ -5,6 +5,7 @@ file: /courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: CMS.951S15 Ian's Map of Media Studies
 uid: f311f5b0-923d-de97-41ec-390e7237f93a
 ---
 This is a resource file that contains information regarding iMoMS.
-
