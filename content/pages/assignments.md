@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on guidelines for the course assignments,
+  including an ethics assignment, technique write-ups, and the final paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ae5f51a0-1d67-6d31-a946-2685ba5510a3
 ---
@@ -90,14 +95,14 @@ Generalization
 Ethics Assignment (due Session 2)
 ---------------------------------
 
-[Guidelines (PDF)]({{< baseurl >}}/resources/mitcms_951s15_ethicsasgn)
+{{% resource_link df282927-c7d6-7b7f-39f5-2e68bf228be4 "Guidelines (PDF)" %}}
 
 Technique Write-ups (#1 due Session 6, #2 due Session 10)
 ---------------------------------------------------------
 
-[Guidelines (PDF)]({{< baseurl >}}/resources/mitcms_951s15_writeguide)
+{{% resource_link 036bdb70-3856-85a3-6729-ae0aabc2e788 "Guidelines (PDF)" %}}
 
 Final Paper (due two days after Session 12)
 -------------------------------------------
 
-[Guidelines (PDF)]({{< baseurl >}}/resources/mitcms_951s15_finalpaper)
+{{% resource_link 81dca83c-3110-39aa-b14d-279f974c0002 "Guidelines (PDF)" %}}
