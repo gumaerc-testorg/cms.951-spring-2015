@@ -175,7 +175,7 @@ _Advanced Topic_: Gender, Sexuality, and Intersectionality
 
 {{< tdclose >}}
 {{< tdopen >}}
-Visit by [Nancy Baym](http://www.nancybaym.com/)
+Visit by {{% resource_link "5bca9015-23a2-4e45-9371-f0f4674a3769" "Nancy Baym" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
