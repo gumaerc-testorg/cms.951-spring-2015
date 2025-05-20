@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding iMoMS.
-file: /ol-ocw-studio-app/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/f311f5b0923dde9741ec390e7237f93a_MITCMS_951S15_iMoMS.pdf
+file: /courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/f311f5b0923dde9741ec390e7237f93a_MITCMS_951S15_iMoMS.pdf
 file_size: 1271926
 file_type: application/pdf
 learning_resource_types:
