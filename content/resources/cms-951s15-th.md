@@ -8,9 +8,9 @@ file_size: 4247
 file_type: image/jpeg
 image_metadata:
   caption: Taking notes while interacting with people in the field is one important
-    element of qualitative social science research. (Image courtesy of the [U.S. Fish
-    and Wildlife Service Southeast Region](https://flic.kr/p/dtQCYm) on flickr. License
-    CC-BY.)
+    element of qualitative social science research. (Image courtesy of the {{% resource_link
+    "e8843c25-9ad6-4806-a6e8-befe36cd98a8" "U.S. Fish and Wildlife Service Southeast
+    Region" %}} on flickr. License CC-BY.)
   credit: Image courtesy of the U.S. Fish and Wildlife Service Southeast Region on
     flickr. License CC-BY.
   image-alt: A woman takes notes while standing in a field.
